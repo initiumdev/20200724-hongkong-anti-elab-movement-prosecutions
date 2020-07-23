@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.281ce6a6.chunk.css",
-    "main.js": "./static/js/main.a2f0bb70.chunk.js",
-    "main.js.map": "./static/js/main.a2f0bb70.chunk.js.map",
+    "main.css": "./static/css/main.4cb734b9.chunk.css",
+    "main.js": "./static/js/main.7abbf9e3.chunk.js",
+    "main.js.map": "./static/js/main.7abbf9e3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b77e15b5.js",
     "runtime-main.js.map": "./static/js/runtime-main.b77e15b5.js.map",
     "static/css/2.7c35e809.chunk.css": "./static/css/2.7c35e809.chunk.css",
-    "static/js/2.fdcd0042.chunk.js": "./static/js/2.fdcd0042.chunk.js",
-    "static/js/2.fdcd0042.chunk.js.map": "./static/js/2.fdcd0042.chunk.js.map",
+    "static/js/2.d44fe97d.chunk.js": "./static/js/2.d44fe97d.chunk.js",
+    "static/js/2.d44fe97d.chunk.js.map": "./static/js/2.d44fe97d.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ab9ce92f1c9c1bef2c27045bd8dbc350.js": "./precache-manifest.ab9ce92f1c9c1bef2c27045bd8dbc350.js",
+    "precache-manifest.0315fc460df11ee0cf44dd58081fbdec.js": "./precache-manifest.0315fc460df11ee0cf44dd58081fbdec.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.7c35e809.chunk.css.map": "./static/css/2.7c35e809.chunk.css.map",
-    "static/css/main.281ce6a6.chunk.css.map": "./static/css/main.281ce6a6.chunk.css.map",
-    "static/js/2.fdcd0042.chunk.js.LICENSE.txt": "./static/js/2.fdcd0042.chunk.js.LICENSE.txt",
+    "static/css/main.4cb734b9.chunk.css.map": "./static/css/main.4cb734b9.chunk.css.map",
+    "static/js/2.d44fe97d.chunk.js.LICENSE.txt": "./static/js/2.d44fe97d.chunk.js.LICENSE.txt",
     "static/media/cover.jpg": "./static/media/cover.a6cab8f1.jpg",
-    "static/media/Cover.scss": "./static/media/heading_mobile.df7ba505.svg",
+    "static/media/Cover.scss": "./static/media/heading_mobile.66557a17.svg",
     "static/media/logo512.png": "./static/media/logo512.7520b715.png",
     "static/media/mobile_prosecution_01.jpg": "./static/media/mobile_prosecution_01.48a365f4.jpg",
     "static/media/mobile_prosecution_02.jpg": "./static/media/mobile_prosecution_02.6c7c30d8.jpg",
@@ -85,8 +85,8 @@
   "entrypoints": [
     "static/js/runtime-main.b77e15b5.js",
     "static/css/2.7c35e809.chunk.css",
-    "static/js/2.fdcd0042.chunk.js",
-    "static/css/main.281ce6a6.chunk.css",
-    "static/js/main.a2f0bb70.chunk.js"
+    "static/js/2.d44fe97d.chunk.js",
+    "static/css/main.4cb734b9.chunk.css",
+    "static/js/main.7abbf9e3.chunk.js"
   ]
 }
